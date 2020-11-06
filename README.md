@@ -22,3 +22,15 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## mini project PEMIN
+
+Fanka Angelina Larasati (185150701111021)
+
+penjelasan :
+1. membuat project bookapp
+2. membuat database yg bernama "bookapp_lumen"
+3. melakukan setup pada file ENV
+4. mengaktifkan facades dan eloquent
+5. membuat migration yg berfungsi untuk membuat table database
+6. membuat seeder dan model lalu memanggil data nya melalui model. lalu, jalankan aplikasi
